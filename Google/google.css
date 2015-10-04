@@ -1,0 +1,134 @@
+
+.logo{
+	margin-top: 87px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.box{
+    width: 586px;
+    height: 40.208px;
+    border: 1px;
+    border-style: solid;
+    border-color: #D9D9D9;
+    margin-right: auto;
+    margin-left: auto; 
+}
+  .icons{
+  	float:right;
+  	vertical-align: middle;
+  	margin-top: 5.604px;
+  }
+
+  .buttons{ width: 100%;
+  	margin-top: 32px;
+  	}
+  
+  .buttonr{
+  	width: 156px;
+  	height: 36px;
+  	background-color: #F4F4F4;
+    margin-right: 490px;
+  	position: relative;
+  	float: right;
+  	border: 1px;
+    border-style: solid;
+    border-color: #F4F4F4;
+
+  }
+
+  	.textr{
+  	text-align: center;
+    font-family: Arial, 'Arial', Arial, sans-serif;
+	font-size: 13px;
+    color: #757575; 
+    line-height: 15px;
+    vertical-align: middle;
+    position: absolute;
+    top: 11.5px;
+    left: 18.32px;
+
+}
+  .buttonl{
+  	width: 138px;
+  	height: 36px;
+  	background-color: #F4F4F4;
+    position: relative;
+  	float: left;
+    border: 1px;
+    border-style: solid;
+    border-color: #F4F4F4;
+    margin-left: 467px;
+  }
+
+  	.textl{
+  	text-align: center;
+    font-family: Arial, 'Arial', Arial, sans-serif;
+	font-size: 13px;
+    color: #757575;
+    line-height: 15px;
+    vertical-align: middle;
+    position: absolute;
+      top: 11.5px;
+    left: 17.258px;
+
+	}
+
+	.footer{ height: 41px;
+	
+
+		background-color: #F2F2F2;
+		position: fixed;
+		bottom: 0;
+		border: 1px;
+    border-style: solid;
+    border-color: #D9D9D9;
+    color: #666666;
+   
+	}
+	.linksl{
+	display: inline-block;
+	margin-top: 15px;
+	font-size: 13px;
+	font-family: Arial, 'Arial', Arial, sans-serif;
+ 
+    margin-left: 30px;
+    width: 500px;
+    float: left;
+    word-spacing: 32px;
+    color: #666666;
+    }
+
+    .linksr{margin-top: 15px;
+	font-size: 13px;
+	font-family: Arial, 'Arial', Arial, sans-serif;
+   
+    position: relative;
+    margin-right: 30px;
+    word-spacing: 32px;
+    text-align: right;
+     color: #666666;
+}
+
+.3links{margin-right: 145.438px;
+ color: #666666;}
+
+    .lastlink{
+    margin-top: -15px;
+	font-size: 13px;
+	font-family: Arial, 'Arial', Arial, sans-serif;
+
+    float: right;
+    position: relative;
+    float: right;
+    word-spacing: normal;
+     color: #666666;
+}
+    :link {text-decoration: none;
+      color: black;}
+    :hover{text-decoration: underline;
+       color: #666666;
+
+ }
+
