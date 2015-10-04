@@ -1,0 +1,58 @@
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+ table.table {
+ 	margin-right: auto;
+ 	margin-left: auto;
+ 	text-align: left;
+ 	border-collapse: separate;
+    border-spacing: 30px 10px;
+ }   
+
+ h2.education {margin-left:-40% ;
+ 
+ 	text-align: center;
+ 	}
+
+.line-separator{
+
+height:2px;
+width: 60%;
+
+background:#717171;
+
+border-bottom:1px solid #313030;
+margin-left: auto;
+margin-right: auto;
+}
+	ul.list {
+		display: inline-block;
+		text-align: left;
+		margin-left: -36%;
+	}
+
+
+	ol.listmovies {
+	display: inline-block;
+	
+	margin-top: auto;
+		text-align: left;
+		margin-left: -37%;
+	}
+
+body {
+
+	font-family: 'PT Sans Narrow';
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+
+	text-align: center;
+
+
+
+}
